@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm left-handed**
 
-### Blogs posts
+<!-- ### Blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
