@@ -17,8 +17,7 @@
 
 - ⚡ Fun fact **I'm left-handed**
 
-# Blog posts
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jacob.emerson07/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jacob.emerson07/0"> 
+<!-- ### Blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
