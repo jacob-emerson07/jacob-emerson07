@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [jacob-emerson.me](jacob-emerson.me)
 
-- 📝 I'm starting to write articles on [https://medium.com/@jacob.emerson07](https://medium.com/@jacob.emerson07)
+- 📝 I'm starting to write articles on [Medium](https://medium.com/@jacob.emerson07)
 
 - 💬 Ask me about **anything**
 
