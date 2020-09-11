@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacob-emerson07" alt="jacob-emerson07" /> </p>
 
-- 🔭 I’m currently working on [Improving CaptionBot](https://github.com/jacob-emerson07/image-caption-discord-bot)
+- 🔭 I’m currently working on [Song Analysis (No repo for this project yet).]()
 
-- 🌱 I’m currently learning **fast.ai v2, PyTorch, and then TensorFlow**
+- 🌱 I’m currently learning **Spotipy**
 
 - 👨‍💻 All of my projects are available at [jacob-emerson.me](jacob-emerson.me)
 
