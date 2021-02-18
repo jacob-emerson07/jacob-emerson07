@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacob-emerson07" alt="jacob-emerson07" /> </p>
 
-- 🔭 I’m currently working on [Song Analysis (No repo for this project yet).]()
+- 🔭 I’m currently working on [Building CaptionBot from scratch (instead of using premade models)]()
 
-- 🌱 I’m currently learning **Spotipy**
+- 🌱 I’m currently learning **Keras/TensorFlow**
 
 - 👨‍💻 All of my projects are available at [jacob-emerson.me](jacob-emerson.me)
-
-- 📝 I'm starting to write articles on [Medium](https://medium.com/@jacob.emerson07)
 
 - 💬 Ask me about **anything**
 
