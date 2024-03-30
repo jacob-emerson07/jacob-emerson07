@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Emerson</h1>
-<h3 align="center">An Undergraduate Data Science Student Attending UC Irvine</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacob-emerson07" alt="jacob-emerson07" /> </p>
 
