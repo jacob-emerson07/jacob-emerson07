@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacob-emerson07" alt="jacob-emerson07" /> </p>
 
-- 🔭 I’m currently working on [Building CaptionBot from scratch (instead of using premade models)]()
+- 🔭 I’m currently working on a personal finance application (details TBD)
 
 - 🌱 I’m currently learning **Keras/TensorFlow**
 
+<!--
 - 👨‍💻 All of my projects are available at [jacob-emerson.me](jacob-emerson.me)
+
+-->
 
 - 💬 Ask me about **anything**
 
